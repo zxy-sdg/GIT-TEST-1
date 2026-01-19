@@ -1,0 +1,2 @@
+riga1 file1 n.1
+riga2 file n.2
